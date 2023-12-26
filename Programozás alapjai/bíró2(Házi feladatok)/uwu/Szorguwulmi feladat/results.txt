@@ -1,0 +1,39 @@
+T.eset Pont     F.ido  értékelési üzenet
+-------------------------------------------------------------------------------
+ 1.	1	0.000	HELYES
+ 2.	1	0.002	HELYES
+ 3.	1	0.002	HELYES
+ 4.	1	0.001	HELYES
+ 5.	1	0.002	HELYES
+ 6.	1	0.000	HELYES
+ 7.	1	0.002	HELYES
+ 8.	0	0.002	Hibás eredmény
+ 9.	0	0.001	Hibás eredmény
+ 10.	0	0.000	Hibás eredmény
+ 11.	0	0.002	Hibás eredmény
+ 12.	0	0.001	Hibás eredmény
+ 13.	1	0.002	HELYES
+ 14.	1	0.001	HELYES
+ 15.	0	0.001	Hibás eredmény
+ 16.	1	0.001	HELYES
+ 17.	1	0.002	HELYES
+ 18.	1	0.002	HELYES
+ 19.	1	0.002	HELYES
+ 20.	1	0.002	HELYES
+ 21.	1	0.002	HELYES
+ 22.	1	0.000	HELYES
+ 23.	1	0.002	HELYES
+ 24.	1	0.002	HELYES
+ 25.	1	0.000	HELYES
+ 26.	1	0.001	HELYES
+ 27.	1	0.002	HELYES
+ 28.	1	0.002	HELYES
+ 29.	1	0.002	HELYES
+ 30.	0	0.002	Hibás eredmény
+ 31.	1	0.002	HELYES
+ 32.	1	0.002	HELYES
+ 33.	1	0.002	HELYES
+ 34.	1	0.002	HELYES
+ 35.	1	0.002	HELYES
+-------------------------------------------------------------------------------
+Összpont: 28
